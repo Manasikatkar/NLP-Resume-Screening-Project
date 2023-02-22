@@ -1,4 +1,4 @@
-# NLP-Resume-Screening-Project
+# NLP-Resume-Screening-Projects
 
 INTRODUCTION:
 
